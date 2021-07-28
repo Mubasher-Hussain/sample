@@ -2,7 +2,7 @@ from operator import itemgetter
 import copy
 
 
-def create_goal_Dictionary(goal_state):
+def create_goal_dictionary(goal_state):
     # Makes Dictionary Of Goal State Values and their location in 2d Matrix
     # Format {value at goal_state[0][0]:(0,0),goal_state[0][1]:(0,1),etc,etc}
     goal_dict = {}
