@@ -106,3 +106,4 @@ goal_state = [
 ]
 
 best_first_search(initial_state, goal_state)
+
