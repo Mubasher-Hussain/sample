@@ -99,6 +99,7 @@ initial_state = [
     [1, 6, 4],
     [7, 0, 5]
 ]
+#Change Goal State Here
 goal_state = [
     [3, 2, 0],
     [8, 1, 4],
